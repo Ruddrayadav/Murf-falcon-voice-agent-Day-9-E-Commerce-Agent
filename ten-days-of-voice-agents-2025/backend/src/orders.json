@@ -1,0 +1,44 @@
+[
+  {
+    "id": "ord-1",
+    "created_at": "2025-11-30T20:33:47.277915",
+    "items": [
+      {
+        "product_id": "bottle-001",
+        "name": "Insulated Steel Water Bottle",
+        "quantity": 1,
+        "unit_price": 899
+      }
+    ],
+    "total_amount": 899,
+    "currency": "INR"
+  },
+  {
+    "id": "ord-2",
+    "created_at": "2025-11-30T20:38:38.362234",
+    "items": [
+      {
+        "product_id": "watch-001",
+        "name": "Smart Fitness Watch",
+        "quantity": 1,
+        "unit_price": 2999
+      }
+    ],
+    "total_amount": 2999,
+    "currency": "INR"
+  },
+  {
+    "id": "ord-3",
+    "created_at": "2025-11-30T20:39:17.935271",
+    "items": [
+      {
+        "product_id": "mug-001",
+        "name": "Stoneware Coffee Mug",
+        "quantity": 1,
+        "unit_price": 799
+      }
+    ],
+    "total_amount": 799,
+    "currency": "INR"
+  }
+]

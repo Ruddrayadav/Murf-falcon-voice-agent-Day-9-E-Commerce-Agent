@@ -1,0 +1,67 @@
+[
+  {
+    "id": "mug-001",
+    "name": "Stoneware Coffee Mug",
+    "description": "Handcrafted ceramic mug with matte finish.",
+    "price": 799,
+    "currency": "INR",
+    "category": "kitchen",
+    "color": "white"
+  },
+  {
+    "id": "hoodie-001",
+    "name": "Black Premium Hoodie",
+    "description": "Ultra-soft fleece hoodie with minimalistic design.",
+    "price": 1499,
+    "currency": "INR",
+    "category": "clothing",
+    "color": "black",
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": "tshirt-001",
+    "name": "Red Cotton T-Shirt",
+    "description": "100% cotton breathable tee.",
+    "price": 699,
+    "currency": "INR",
+    "category": "clothing",
+    "color": "red",
+    "sizes": ["M", "L", "XL"]
+  },
+  {
+    "id": "bottle-001",
+    "name": "Insulated Steel Water Bottle",
+    "description": "Keeps beverages hot or cold for 12 hours.",
+    "price": 899,
+    "currency": "INR",
+    "category": "accessories",
+    "color": "silver"
+  },
+  {
+    "id": "earbuds-001",
+    "name": "Wireless Noise-Canceling Earbuds",
+    "description": "Low-latency Bluetooth earbuds with deep bass.",
+    "price": 2499,
+    "currency": "INR",
+    "category": "electronics",
+    "color": "white"
+  },
+  {
+    "id": "watch-001",
+    "name": "Smart Fitness Watch",
+    "description": "Tracks heart rate, steps, and sleep patterns.",
+    "price": 2999,
+    "currency": "INR",
+    "category": "electronics",
+    "color": "black"
+  },
+  {
+    "id": "bag-001",
+    "name": "Urban Laptop Backpack",
+    "description": "Water-resistant backpack with padded laptop sleeve.",
+    "price": 1899,
+    "currency": "INR",
+    "category": "accessories",
+    "color": "gray"
+  }
+]
